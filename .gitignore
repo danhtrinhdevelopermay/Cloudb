@@ -1,0 +1,16 @@
+# Dependencies
+node_modules
+
+# Build outputs
+dist
+server/public
+
+# System files
+.DS_Store
+*.tar.gz
+
+# Temporary config files
+vite.config.ts.*
+
+# Note: .env files are now included in the repository
+# Make sure to remove sensitive data before committing
